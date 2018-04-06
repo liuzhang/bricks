@@ -7,7 +7,7 @@ use framework\web\Application;
 
 /**
  * Http服务器类
- * @author 刘健 <coder.liu@qq.com>
+ * @author Liu Zhang <lz-850610@163.com>
  */
 class HttpServer extends BaseObject
 {
