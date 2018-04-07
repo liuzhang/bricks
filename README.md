@@ -2,6 +2,9 @@
 基于swoole httpserver 的小型框架。练习 swoole
 
 # 使用说明
+- 依赖说明：
+    - PHP 版本 5 以上
+    - swoole 版本 >= 1.9.5
 - 启动服务：
     git clone 下载下来,进入 bin 目录, start 启动,stop 停止, restart 重启
 
